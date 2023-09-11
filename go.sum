@@ -1,0 +1,6 @@
+github.com/Nerdmaster/terminal v0.12.1 h1:DGb3ya55nZdqdBMjWQHNF5mHYHS2eJgYLqmw3KnE1cQ=
+github.com/Nerdmaster/terminal v0.12.1/go.mod h1:Dg6++m3aF+P/l8RdYb/2N6zK3CqvUfzhBreUNEWuQ8M=
+github.com/stianeikeland/go-rpio/v4 v4.6.0 h1:eAJgtw3jTtvn/CqwbC82ntcS+dtzUTgo5qlZKe677EY=
+github.com/stianeikeland/go-rpio/v4 v4.6.0/go.mod h1:A3GvHxC1Om5zaId+HqB3HKqx4K/AqeckxB7qRjxMK7o=
+golang.org/x/sys v0.12.0 h1:CM0HF96J0hcLAwsHPJZjfdNzs0gftsLfgKt57wWHJ0o=
+golang.org/x/sys v0.12.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
